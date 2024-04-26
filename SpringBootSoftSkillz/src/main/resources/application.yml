@@ -1,0 +1,7 @@
+server:
+  port: 8082
+  
+profiles:
+  username: louis
+  address: taiwan
+  phone: 0987654321
